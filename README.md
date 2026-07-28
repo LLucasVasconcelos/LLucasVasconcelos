@@ -13,7 +13,7 @@
 
 <!-- Texto que "digita" sozinho -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+de+processos+em+alta+escala;APIs+r%C3%A1pidas+com+Python+%2B+FastAPI;RPA%2C+scraping+e+engenharia+reversa+de+API;10.000%2B+registros+por+execu%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Automa%C3%A7%C3%A3o+de+processos+em+alta+escala;APIs+r%C3%A1pidas+com+Python+%2B+FastAPI;RPA%2C+scraping+e+engenharia+reversa+de+API;" alt="Typing SVG" />
 </a>
 
 </div>
