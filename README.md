@@ -62,23 +62,6 @@ scraping e engenharia reversa de API até pipelines de dados em tempo real.
 ![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!-- ======================= ESTATÍSTICAS ======================= -->
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LLucasVasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LLucasVasconcelos&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LLucasVasconcelos&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LLucasVasconcelos&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
 
 <!-- ======================= DESTAQUE ======================= -->
 ## 🏆 Projeto em destaque
