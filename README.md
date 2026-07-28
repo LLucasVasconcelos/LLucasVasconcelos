@@ -25,7 +25,7 @@ Desenvolvedor **backend** e especialista em **RPA (Robotic Process Automation)**
 Construo sistemas de automação de **alto volume** e serviços backend prontos pra produção — do
 scraping e engenharia reversa de API até pipelines de dados em tempo real.
 
-- 🚀 Automatizei análise de contratos bancários: **de ~5 min manuais → menos de 1 min** por contrato
+- 🚀 Automatizei análise de contratos bancários: **de ~5 min manuais → menos de 1 min** por contrato, e rodando 5+ bancos silmultaneamente utilizando e multithreading
 - ⚡ Motor de **rate limiting adaptativo** processando **10.000+ registros** por execução
 - 🧠 **Engenharia reversa de APIs** (via DevTools) pra trocar clique/HTML por chamadas diretas
 - 🏗️ Infra própria de automações em **Proxmox + Linux**, híbrida (RPA + API)
